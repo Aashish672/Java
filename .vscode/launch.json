@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "HashMap.Main",
+            "projectName": "JAVA_f95afe3b"
+        },
+        {
+            "type": "java",
+            "name": "Heap",
+            "request": "launch",
+            "mainClass": "Heap.Heap",
+            "projectName": "JAVA_f95afe3b"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "JAVA_f95afe3b"
+        },
+        {
+            "type": "java",
             "name": "Repeating",
             "request": "launch",
             "mainClass": "Repeating",
