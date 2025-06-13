@@ -59,8 +59,8 @@ class CountSort {
   }
   
   public static void main(String[] args) {
-    int[] arr = {6, 3, 10, 9, 2, 4, 9, 7};
-    countSortHash(arr);
+    int[] arr = {2,0,2,1,1,0};
+    countSort(arr);
     System.out.println(Arrays.toString(arr));
   }
 }

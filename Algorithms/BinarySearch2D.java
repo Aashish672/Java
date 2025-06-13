@@ -30,8 +30,7 @@ public class BinarySearch2D {
          * This statement return the position of the target element. If it return
          * [-1,-1], it means element was not found in matrix
          */
-        System.out
-                .println("Target element found at position" + " " + (Arrays.toString(binarysearch2D(matrix, target))));
+        System.out.println("Target element found at position" + " " + (Arrays.toString(binarysearch2D(matrix, target))));
         sc.close();
     }
 

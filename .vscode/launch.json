@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PivotIndex",
+            "request": "launch",
+            "mainClass": "Leetcode.PivotIndex",
+            "projectName": "JAVA_f95afe3b"
+        },
+        {
+            "type": "java",
+            "name": "AllPaths",
+            "request": "launch",
+            "mainClass": "Recursion.Backtracking.AllPaths",
+            "projectName": "JAVA_f95afe3b"
+        },
+        {
+            "type": "java",
+            "name": "RadixSort",
+            "request": "launch",
+            "mainClass": "Algorithms.RadixSort",
+            "projectName": "JAVA_f95afe3b"
+        },
+        {
+            "type": "java",
+            "name": "LevelOrderTraversal",
+            "request": "launch",
+            "mainClass": "BinaryTreeQuestions.BreadthFirstSearch.LevelOrderTraversal",
+            "projectName": "JAVA_f95afe3b"
+        },
+        {
+            "type": "java",
+            "name": "CountSort",
+            "request": "launch",
+            "mainClass": "Algorithms.CountSort",
+            "projectName": "JAVA_f95afe3b"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Algorithms.Main",
+            "projectName": "JAVA_f95afe3b"
+        },
+        {
+            "type": "java",
+            "name": "KarpRabin",
+            "request": "launch",
+            "mainClass": "HashMap.KarpRabin",
+            "projectName": "JAVA_f95afe3b"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "HashMap.Main",

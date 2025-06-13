@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class PhonePad {
     public static void main(String[] args) {
-        System.out.println(count("", "12"));
+        System.out.println(combination("", "12"));
     }
 
     static void numbers(String p, String up) {
