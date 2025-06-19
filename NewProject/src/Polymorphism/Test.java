@@ -17,7 +17,7 @@ public class Test {
 		
 		T.m1(new Object());
 		T.m1("String");
-		T.m1(null); 
+		//T.m1(null); 
 		T.m1(new StringBuffer("Aashish"));
 		
 	}

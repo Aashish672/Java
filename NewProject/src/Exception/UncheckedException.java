@@ -7,8 +7,7 @@ public class UncheckedException {
 		//System.exit(0);
 		}
 		catch (ArithmeticException e){
-			//System.out.println("Arithmetic Exception");
-			throw 
+			//System.out.println("Arithmetic Exception"); 
 		}
 		finally {
 			System.out.println("I am in finally block");

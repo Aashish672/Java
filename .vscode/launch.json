@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Positive",
+            "request": "launch",
+            "mainClass": "Positive",
+            "projectName": "JAVA_f95afe3b"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "JAVA_f95afe3b"
+        },
+        {
+            "type": "java",
             "name": "PivotIndex",
             "request": "launch",
             "mainClass": "Leetcode.PivotIndex",
