@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SubArraySum",
+            "request": "launch",
+            "mainClass": "HashMap.Programs.SubArraySum",
+            "projectName": "JAVA_f95afe3b"
+        },
+        {
+            "type": "java",
+            "name": "Itenary",
+            "request": "launch",
+            "mainClass": "HashMap.Programs.Itenary",
+            "projectName": "JAVA_f95afe3b"
+        },
+        {
+            "type": "java",
+            "name": "IntersectionOfArrays",
+            "request": "launch",
+            "mainClass": "Leetcode.IntersectionOfArrays",
+            "projectName": "JAVA_f95afe3b"
+        },
+        {
+            "type": "java",
+            "name": "UnionOfArrays",
+            "request": "launch",
+            "mainClass": "Leetcode.UnionOfArrays",
+            "projectName": "JAVA_f95afe3b"
+        },
+        {
+            "type": "java",
+            "name": "MajorityElement",
+            "request": "launch",
+            "mainClass": "Leetcode.MajorityElement",
+            "projectName": "JAVA_f95afe3b"
+        },
+        {
+            "type": "java",
+            "name": "Implementation",
+            "request": "launch",
+            "mainClass": "HashMap.Implementation",
+            "projectName": "JAVA_f95afe3b"
+        },
+        {
+            "type": "java",
             "name": "Positive",
             "request": "launch",
             "mainClass": "Positive",
