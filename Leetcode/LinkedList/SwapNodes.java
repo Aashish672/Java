@@ -1,6 +1,9 @@
 // Leetcode Question Number 24
 
 public class SwapNodes {
+    public static void main(String[] args){
+        
+    }
     public ListNode swapPairs(ListNode head) {
         if(head==null || head.next==null){
             return head;
