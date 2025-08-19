@@ -1,6 +1,7 @@
 import java.util.*;
 public class PrimsAlgortihm {
     static class Edge{
+        
         int src;
         int dest;
         int wt;
@@ -46,7 +47,7 @@ public class PrimsAlgortihm {
     }
 
     //O(ElogE)
-    public static void primAlgo(ArrayList<Edge> graph[]){
+    static void primAlgo(ArrayList<Edge> graph[]){
         boolean vis[]=new boolean[graph.length];
         PriorityQueue<Pair> pq=new PriorityQueue<>();
         pq.add(new Pair(0,0));

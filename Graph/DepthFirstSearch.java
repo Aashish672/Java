@@ -1,6 +1,7 @@
 import java.util.*;
 
 public class DepthFirstSearch {
+    //O(V+E)
     public static void dfs(ArrayList<Edge> graph[],int curr,boolean vis[]){
         System.out.print(curr+" ");
         vis[curr]=true;
