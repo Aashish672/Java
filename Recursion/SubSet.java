@@ -7,7 +7,7 @@ import java.util.List;
 public class SubSet {
     public static void main(String[] args) {
         int[] arr = { 1, 2, 3, 2 };
-        System.out.println(setDuplicate(arr));
+        System.out.println(set(arr));
     }
 
     static List<List<Integer>> set(int[] arr) {

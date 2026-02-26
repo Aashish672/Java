@@ -29,8 +29,13 @@ public class WeakestSoldier {
         for(int i=0;i<arr.length;i++){
             int count=0;
             for(int j=0;j<arr[0].length;j++){
-                count+=arr[i][]
+                count+=arr[i][j]==1?1:0;
             }
+            pq.add(new Row(count,i));
+        }
+        
+        for(int i=0;i<k;i++){
+            System.out.println("R"+pq.remove().idx);
         }
     }
 }

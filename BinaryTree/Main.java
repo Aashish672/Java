@@ -1,4 +1,7 @@
-package BinaryTree;
+
+import BinaryTree.BST;
+
+
 
 //import java.util.Scanner;
 public class Main {

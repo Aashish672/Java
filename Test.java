@@ -4,9 +4,15 @@ public class Test {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter a string");
-        String s=sc.nextLine();
+        int s=sc.nextInt();
+        int count=0;
+        for(int i=1;i<=s;i++){
+            if(s%i==0){
+                count++;
+            }
+        }
 
-        System.out.println(sequence(s));
+        System.out.println(count);
     }
 
     static String sequence(String s){

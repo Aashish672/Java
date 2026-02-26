@@ -1,0 +1,7 @@
+A class is a template or blueprint used to create objects. It defines the properties and behaviors that the objects created from it will have. 
+An object is a instance of a class. It is real entity created from class.
+new keyword: Dynamically allocates the memory at runtime and return a reference to it.
+A constructor is a special function whose name is same as class name. It is automatically called when an object is created. It has no return type 
+ans it is used to initialize data members.
+ this keyword: It is a reference variable that refers to the current object. Used to access instance variables when they are shadowed by local variables.
+ Can be used to call other constructors in the same class.

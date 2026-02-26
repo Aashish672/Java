@@ -1,0 +1,2 @@
+1. Inheritance: Property by virtue of which one class can inherit the properties of another class. the class which inherits the properties is called the base class or child class and the class whose properties is being inherited is called the parent class or super class.
+super keyword: Used to call the constructor of the parent class and initialize the variables of parent class.

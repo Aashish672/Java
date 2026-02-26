@@ -1,0 +1,15 @@
+Packages: Containers for class. Folders where java programs are stored.
+
+import keyword: Used to import codes from one package to another.
+
+static keyword: Used to declare a class-level member. A static member belongs to the class itself rather 
+than to individual objects of the class. It can be accessed without creating
+an instance of the class.
+- static variables are shared among all objects of the class.
+- static methods can be called using the class name.
+- static block runs when the class is loaded into memory
+- static nested class does not require am instance of the outer class
+- this keyword cannot be used inside static method. 
+- Outside class cannot be static.
+
+Singleton Class: Only one instance is allowed.

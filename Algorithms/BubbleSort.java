@@ -20,9 +20,9 @@ public class BubbleSort {
 
     static void bubble_sort(int[] arr) {
         boolean swapped;
-        for (int i = 0; i < arr.length; i++) {
+        for (int i = 0; i < arr.length - 1; i++) {
             swapped = false;
-            for (int j = 1; j < arr.length; j++) {
+            for (int j = 1; j < arr.length - i; j++) {
                 if (arr[j] < arr[j - 1]) {
                     int temp = arr[j];
                     arr[j] = arr[j - 1];
